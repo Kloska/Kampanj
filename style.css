@@ -12,3 +12,11 @@ body {
     margin: 18%;
     background-color: #111111;
 }
+
+.navbar {
+    padding-top: 0.2rem;
+}
+
+.logo img {
+    margin-top: 0.2rem;
+}
