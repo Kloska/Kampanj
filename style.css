@@ -1,4 +1,4 @@
-h2, h3 {
+h1, h3 {
     font-family: 'Prompt', sans-serif;
     color: #F7F052;
 }
@@ -9,6 +9,6 @@ p {
 }
 
 body {
-    margin: 17%;
+    margin: 18%;
     background-color: #111111;
 }
