@@ -19,11 +19,11 @@ header {
 }
 
 #logo img {
-    width: 50%;
-    height: 50%;
+    width: 20%;
+    height: 20%;
 }
 
 .marginal {
-margin: 0 auto;
-width: 82%;
+    margin: 0 auto;
+    width: 82%;
 }
