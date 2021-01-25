@@ -15,7 +15,10 @@ body {
 header {
     background-color: #030303;
     width: 100%;
-    padding: 0.5rem 0;
+    padding: 0,8rem 0;
+    position:absolute;
+    top:0;
+    left:0;
 }
 
 #logo img {
@@ -25,5 +28,5 @@ header {
 
 .marginal {
     margin: 0 auto;
-    width: 82%;
+    width: 75%;
 }
