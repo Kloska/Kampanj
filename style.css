@@ -3,7 +3,7 @@ h1, h3 {
     color: #F7F052;
 }
 
-p {
+p, li {
     font-family: 'Hind Guntur', sans-serif;
     color: #F9F9F9;
 }
@@ -12,13 +12,13 @@ body {
     background-color: #111111;
     min-height: 100vh;
     margin: 0;
-    margin-top: 5rem;
+    margin-top: 6.5%;
 }
 
 header {
     background-color: #030303;
     width: 100%;
-    padding: 0,8rem 0;
+    padding: 1,4%;
     position:absolute;
     top:0;
     left:0;
@@ -34,9 +34,12 @@ header {
     width: 75%;
 }
 
-footer{
-    background-color: 030303;
+#fot{
+    background-color: #030303;
     text-align: center;
-    width:100%;
-    padding: 0.5rem 0;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
 }
