@@ -24,7 +24,6 @@ body {
 header {
     background-color: #030303;
     width: 100%;
-    padding: 1,4%;
     position:absolute;
     top:0;
     left:0;
@@ -33,6 +32,7 @@ header {
 #logo img{
     width: 17.8rem;
     height: 4rem;
+    padding-left: 12%;
 }
 
 #mat img{
